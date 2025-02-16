@@ -1,0 +1,3 @@
+K:/Repositories/Remote file transfer/Remote file transfer/Client/cmake-build-debug/CMakeFiles/untitled.dir
+K:/Repositories/Remote file transfer/Remote file transfer/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Repositories/Remote file transfer/Remote file transfer/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

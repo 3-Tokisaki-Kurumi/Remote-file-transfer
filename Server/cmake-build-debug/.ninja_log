@@ -1,0 +1,4 @@
+# ninja log v5
+7	169	7614101842918392	build.ninja	5884ce181e0fbc7f
+2	591	7614087346330709	CMakeFiles/FileServer.dir/server.c.obj	6834c17ad6eea80f
+591	733	7614087347713835	FileServer.exe	a13b3b0e9f2e3fda

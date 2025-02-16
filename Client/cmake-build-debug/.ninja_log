@@ -1,0 +1,6 @@
+# ninja log v5
+2	85	7614072642465407	untitled.res	37b7238573a9e748
+2	204	7614101834161462	build.ninja	1e1e6c77e5e652c4
+86	776	7614072649355690	CMakeFiles/untitled.dir/main.c.obj	b6540b9fb926be53
+776	914	7614072650692881	untitled.exe	cdf8262a6f497f82
+3	83	7611648351319334	C:/Users/Lenovo/Desktop/good/Final_version/Client/cmake-build-debug/untitled.res	e79622062aa85748
