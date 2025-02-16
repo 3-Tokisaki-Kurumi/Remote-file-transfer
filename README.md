@@ -1,0 +1,2 @@
+# Remote-file-transfer
+ （客户端（客户端静默运行）-服务端）一个基于C语言实现的跨平台文件传输系统，支持大文件传输、断点重试、设备热插拔检测等功能。客户端自动扫描指定类型文件并优先传输，服务器端接收并保存文件。（A cross platform file transfer system based on C language, supporting functions such as large file transfer, breakpoint retry, and device hot plug detection. The client automatically scans specified types of files and prioritizes transmission, while the server receives and saves the files.）
