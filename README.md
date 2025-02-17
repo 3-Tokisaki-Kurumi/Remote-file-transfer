@@ -5,7 +5,7 @@ Remote file transfer and retrieval system (client server)
 免责声明：本项目按“现状”提供，作者或版权所有者不对任何直接、间接、偶然、特殊或后果性损害（包括但不限于数据丢失、利润损失、业务中断等）承担任何责任，无论此类损害是因使用本软件、无法使用本项目，或与项目功能相关的其他行为所导致，也无论责任是基于合同、侵权（包括过失）或其他法律理论。您在使用、修改或分发本项目时需自行承担全部风险。作者不保证项目的适用性、安全性或无误性。您必须确保使用本软件的行为完全符合适用法律和法规。若因违反法律要求导致任何纠纷或责任，作者或版权所有者概不负责。
 Disclaimer: This project is provided "as is" and the author or copyright owner shall not be liable for any direct, indirect, incidental, special, or consequential damages (including but not limited to data loss, loss of profits, business interruption, etc.), whether caused by the use of this software, inability to use this project, or other actions related to project functionality, and whether liability is based on contract, tort (including negligence), or other legal theories. You bear all risks when using, modifying, or distributing this project. The author does not guarantee the applicability, safety, or accuracy of the project. You must ensure that your use of this software fully complies with applicable laws and regulations. The author or copyright owner shall not be held responsible for any disputes or liabilities arising from violations of legal requirements.
 
-一个基于C语言实现的跨平台文件传输系统，支持大文件传输、断点重试、设备热插拔检测等功能。客户端自动扫描指定类型文件并优先传输，服务器端接收并保存文件
+一个基于C语言实现的跨平台获取文件并传输系统，支持大文件传输、断点重试、设备热插拔检测等功能。客户端自动扫描指定类型文件并优先传输，服务器端接收并保存文件
 （Continuously update a cross platform file transfer system based on C language, supporting functions such as large file transfer, breakpoint retry, and device hot plug detection. The client automatically scans specified types of files and prioritizes transmission, while the server receives and saves the files）
 
 ## 功能特性
